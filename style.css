@@ -7,7 +7,7 @@
   'opsz' 24
 }
 
-.side-nav:hover {
+.nav-link:hover {
   font-variation-settings:
   'FILL' 1, 
   'wght' 400,
@@ -15,7 +15,7 @@
   'opsz' 24
 }
 
-.nav-link .alexandria:active {
+.nav-link:active {
   font-variation-settings:
   'FILL' 1,
   'wght' 400,
